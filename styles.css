@@ -4,9 +4,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 body {
-    margin-top: 50px;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin: 50px;
     font-family: 'Helvetica', 'Arial', sans-serif;
     text-align: center;
     color: rgb(219, 143, 133);
