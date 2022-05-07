@@ -1,2 +1,3 @@
 # GitPage
-Landing Page / ... ?
+Landing/Project/... Page
+Jekyll and GitHub Pages
