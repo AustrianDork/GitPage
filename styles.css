@@ -15,7 +15,8 @@ body {
 
 /*----Site Header----*/
 .Nav__SiteHeader {
-    width: 80%;
+    width: 90%;
+    text-align: center;
     margin: 0 auto;
 }
 
@@ -41,14 +42,9 @@ header {
     color: rgb(28, 25, 34);
 }
 
-h1 {
-    float: left;
-    margin: 10px 0%;
-}
-
 /*---About Text---*/
 .Ab__Paragraph {
-    text-align: left;
-    width: 80%;
+    text-align: center;
+    width: 90%;
     margin: 30px auto;
 }
